@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.kartlar1 {
+   
+
+
+    display: flex;
+   
+}
+
+
+
+.kartlar2  {
+
+    display: flex;
+    
+  
+
+    
+
+
+}
+
+.kartlar2 .card img{
+    width: 150px;
+    height: 100px;
+}
+
+
